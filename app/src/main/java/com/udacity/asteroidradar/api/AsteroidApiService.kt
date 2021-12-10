@@ -4,6 +4,7 @@ package com.udacity.asteroidradar.api
 // import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
+import com.udacity.asteroidradar.Asteroid
 import com.udacity.asteroidradar.Constants
 import retrofit2.Call
 // import kotlinx.coroutines.Deferred
@@ -13,7 +14,6 @@ import retrofit2.converter.scalars.ScalarsConverterFactory
 import retrofit2.http.GET
 import retrofit2.http.Query
 
-private const val BASE_URL = Constants.BASE_URL
 private const val API_KEY = Constants.API_KEY
 
 /**
@@ -21,8 +21,8 @@ private const val API_KEY = Constants.API_KEY
  * object.
  */
 private val retrofit = Retrofit.Builder()
-    .addConverterFactory(ScalarsConverterFactory.create())
     .baseUrl(Constants.BASE_URL)
+    .addConverterFactory(ScalarsConverterFactory.create())
     .build()
 
 /**

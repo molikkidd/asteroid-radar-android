@@ -1,15 +1,16 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.bumptech.glide:gifdecoder:4.8.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/10481ff51a37adb5ee91cfe4273c330c/transformed/jetified-gifdecoder-4.8.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/09b00b99ad147dbcb9df02d19256fa37/transformed/jetified-gifdecoder-4.8.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2c939ac32d9d3043e7598e8b3676b041/transformed/jetified-gifdecoder-4.8.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c0851ef1e3ce85518226d8e593bdcb91/transformed/jetified-gifdecoder-4.8.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5fb8c66eccc447a98dbf037a6bd6c421/transformed/jetified-gifdecoder-4.8.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/10481ff51a37adb5ee91cfe4273c330c/transformed/jetified-gifdecoder-4.8.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/10481ff51a37adb5ee91cfe4273c330c/transformed/jetified-gifdecoder-4.8.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/10481ff51a37adb5ee91cfe4273c330c/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/09b00b99ad147dbcb9df02d19256fa37/transformed/jetified-gifdecoder-4.8.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/09b00b99ad147dbcb9df02d19256fa37/transformed/jetified-gifdecoder-4.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/09b00b99ad147dbcb9df02d19256fa37/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.8.0/efaa5fafad842304486e8d5c6a77208b8531e25e/gifdecoder-4.8.0-javadoc.jar!/" />

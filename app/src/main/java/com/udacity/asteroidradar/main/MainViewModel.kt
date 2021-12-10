@@ -36,7 +36,7 @@ class MainViewModel : ViewModel() {
     private fun getAsteroidData() {
         viewModelScope.launch {
             try {
-//                pass in current date and api key
+//                pass in current date
                val rowListResult = AsteroidsApi.retrofitService.getAsteroids(start_date,end_date)
                 _asteroidList.value = parseAsteroidsJsonResult(JSONObject(rowListResult)).toList()
 //                _asteroidList.value = asteroidList.value
