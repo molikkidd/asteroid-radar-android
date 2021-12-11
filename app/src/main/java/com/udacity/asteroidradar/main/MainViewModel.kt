@@ -29,6 +29,7 @@ class MainViewModel : ViewModel() {
     init {
         getAsteroidData()
     }
+
     val start_date = "2021-12-07"
     val end_date = "2021-12-19"
 
