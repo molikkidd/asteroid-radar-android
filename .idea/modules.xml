@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Asteroid_Radar.iml" filepath="$PROJECT_DIR$/.idea/modules/Asteroid_Radar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Asteroid_Radar.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Asteroid_Radar.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AsteroidRadar2.iml" filepath="$PROJECT_DIR$/.idea/modules/AsteroidRadar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AsteroidRadar2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AsteroidRadar2.app.iml" />
     </modules>
   </component>
 </project>
